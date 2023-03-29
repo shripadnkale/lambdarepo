@@ -1,0 +1,7 @@
+com\awsexample\lambda\lambdafunction\repository\OraderDAO.class
+com\awsexample\lambda\lambdafunction\Student.class
+com\awsexample\lambda\lambdafunction\OraderHandler.class
+com\awsexample\lambda\lambdafunction\Request.class
+com\awsexample\lambda\lambdafunction\domain\Order.class
+com\awsexample\lambda\lambdafunction\App.class
+com\awsexample\lambda\lambdafunction\LambdaFunctionApplication.class
